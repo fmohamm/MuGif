@@ -1,0 +1,28 @@
+{
+  "name": "MuGif",
+  "version": "1.0.0",
+  "description": "Musical Gif generator",
+  "author": "fmohamm",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "jquery": "^3.4.1",
+    "nuxt": "^2.0.0",
+    "vue-giphy": "^1.0.1",
+    "vue-jquery": "^1.0.6"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0"
+  }
+}
