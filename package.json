@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.19.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nuxt": "^2.0.0",
     "vue-giphy": "^1.0.1",
     "vue-jquery": "^1.0.6"
